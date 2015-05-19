@@ -1,0 +1,1 @@
+Trabalho sobre a árvore de codificação de Huffman utilizado para o trabalho da disciplina ED2 na UFSCAR Sorocaba
